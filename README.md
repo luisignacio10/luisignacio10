@@ -4,4 +4,5 @@ Soy Ingeniero en Informática, titulado en DUOC UC, actualmente en búsqueda de 
 He trabajado como freelance en la mejora de entrenamientos de IA y como tutor de computación básica.  
 Aquí puedes ver mis proyectos y aprender más sobre mí.
 
-📧 Contacto: https://www.linkedin.com/in/luis-avila-bb0b66231/
+Contacto: [Linkedin](https://www.linkedin.com/in/luis-avila-bb0b66231/)
+
